@@ -1,2 +1,3 @@
 # Prueba-GITHUB
-practica github
+Gallo Parra Lenin
+APSTI
